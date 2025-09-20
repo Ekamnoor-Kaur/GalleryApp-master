@@ -1,4 +1,4 @@
-# untitled2
+# Gallary App
 
 A new Flutter project.
 
